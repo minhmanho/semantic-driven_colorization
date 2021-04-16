@@ -1,6 +1,6 @@
 # Semantic-driven Colorization
 
-#### [[Low-quality Paper]](https://arxiv.org/pdf/2006.07587.pdf) [[Demo]](https://drive.google.com/file/d/1SgGorxoZHxawSsP7II23Y5ENjLXXrMIm/view)
+#### [[Page]](https://minhmanho.github.io/semantic-driven_colorization/) [[Low-quality Paper]](https://arxiv.org/pdf/2006.07587.pdf) [[Demo]](https://drive.google.com/file/d/1SgGorxoZHxawSsP7II23Y5ENjLXXrMIm/view)
 
 ![Alt Text](docs/imgs/intro_50.gif)
 
@@ -17,7 +17,7 @@ In ArXiv, 2020.
 <div align="right" style="font-size:11px"> (Source:  <a href="https://unsplash.com/">Unsplash</a> and <a href="https://commons.wikimedia.org/wiki/File:Robot-clip-art-book-covers-feJCV3-clipart.png">Wiki Common</a>) </div>
 <br>
 
-"*Recent colorization works implicitly predict the semantic information while learning to colorize black-and-white images. Consequently, the generated color is easier to be overflowed; plus, the semantic faults are invisible. As human experiences in colorization, our brains first detect and recognize the objects in the photo, then imagine their plausible colors based on many similar objects we have seen in real life, and finally colorize them. In this study, we simulate that human-like action to let our network first learn to understand the photo, then colorize it. By doing so, our network can provide plausible colors for specific objects under semantic constraint. Moreover, the semantic map becomes understandable and interactable to the user.*"
+"*Recent colorization works implicitly predict the semantic information while learning to colorize black-and-white images. Consequently, the generated color is easier to be overflowed; plus, the semantic faults are invisible. As human experiences in colorization, our brains first detect and recognize the objects in the photo, then imagine their plausible colors based on many similar objects we have seen in real life, and finally colorize them. In this study, we simulate that human-like action to let our network first learn to understand the photo, then colorize it. By doing so, our network can provide plausible colors for specific objects under semantic constraint. Furthermore, the semantic information becomes understandable and interactable to the user.*"
 
 ## Prerequisites
 
@@ -41,7 +41,7 @@ cd semantic-driven_colorization
 
 ### 2. Fetch the pre-trained model
 
-You can download the pre-trained colorization and semantic segmentation models at [Google Drive](https://drive.google.com/drive/folders/1Va8kz-bKD_cIaSdkdlI_JeQwkkEl5XiN?usp=sharing) (148MB + 52MB) or run the following script:
+You can download the pre-trained colorization model at [Google Drive](https://drive.google.com/file/d/1uBQ1AkfD26Dib4B5bI0BHGoNGlNp8iPk/view?usp=sharing) (148MB) and semantic segmentation model at [Google Drive](https://drive.google.com/file/d/1J9Xdc9gZPAEAy0QhW1Umv-rbmutWKoTC/view?usp=sharing) (52MB), or run the following script:
 
 ```
 ./models/fetch_model.sh
