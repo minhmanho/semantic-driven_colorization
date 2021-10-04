@@ -95,6 +95,11 @@ We refer these repositories to code our application
 
 This work is for **non-commercial** uses and research purposes only.
 
+The painting of RMS Lusitania and its variants are shared under CC-BY-SA 3.0. 
+```
+Wikimedia Commons contributors, "File:Bundesarchiv DVM 10 Bild-23-61-17, Untergang der "Lusitania".jpg," Wikimedia Commons, the free media repository, https://commons.wikimedia.org/w/index.php?title=File:Bundesarchiv_DVM_10_Bild-23-61-17,_Untergang_der_%22Lusitania%22.jpg&oldid=540613309 (accessed October 4, 2021). 
+```
+
 ## Contact
 
 If you have any questions, feel free to contact me (maintainer) at [manminhho.cs@gmail.com](mailto:manminhho.cs@gmail.com)
